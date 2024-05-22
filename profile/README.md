@@ -6,6 +6,7 @@
 #### 금융 상품 비교 어플리케이션
  ![로고](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbfQboG%2FbtsHw5Mluk1%2F0HfdpaLmjP8igs0TbvvoBk%2Fimg.png) -->
 
+---
 ## 목차
 
 ### 🙋 I. 팀원 정보 및 업무 분담 내역
