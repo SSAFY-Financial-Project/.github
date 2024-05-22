@@ -6,6 +6,53 @@
 #### 금융 상품 비교 어플리케이션
  ![로고](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbfQboG%2FbtsHw5Mluk1%2F0HfdpaLmjP8igs0TbvvoBk%2Fimg.png) -->
 
+
+### 금융 상품 비교 어플리케이션
+
+### 페이지 이동
+
+---
+
+[아이디어 회의](https://www.notion.so/e2a75d5db39c432e95c096f2bf558460?pvs=21)
+
+[기획 (전체적인 구조)](https://www.notion.so/fa33869faa9643719dfca196efa3a2e9?pvs=21)
+
+[구체적인 활동](https://www.notion.so/f167ad912d29416581839b5bef1c9717?pvs=21)
+
+[스케줄표 ](https://www.notion.so/fd50942fabb84e7e83a8be362de9f70b?pvs=21)
+
+[필수 구현기능 ](https://www.notion.so/622185bd971042ea943d3159368d7ee3?pvs=21)
+
+[자료조사](https://www.notion.so/577d4a3bbcff4c1c9ccfefb92d5fec13?pvs=21)
+
+### 프로젝트 팀
+
+---
+
+👩🏼‍💼 신재건
+
+👨🏼‍💻 나경준
+
+👨🏼‍🎨 정소영
+
+---
+
+## 목차
+
+### 🙋 I. 팀원 정보 및 업무 분담 내역
+
+### 📊 II. 설계 내용 (아키텍처 등) 및 실제 구현 정도
+
+### 📑 III. 데이터베이스 모델링(ERD)
+
+### 💻 IV. 금융 상품 추천 알고리즘에 대한 기술적 설명
+
+### 💁 V. 서비스 대표 기능들에 대한 설명
+
+### 🙇 VI. 느낀 점, 후기 등
+
+---
+
 ### 금융 상품 비교 어플리케이션
 
 ### 페이지 이동
