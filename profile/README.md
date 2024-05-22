@@ -1,14 +1,8 @@
 # 🐹 MONEY MENTOR
-# 삼성 SW 아카데미 팀 프로젝트
+
+### 삼성 SW 아카데미 팀 프로젝트
 ### 금융 상품 비교 어플리케이션
-
----
-
-![Cap 2024-05-17 16-36-04-936.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/089667cb-be30-421a-bd46-036c87d5b0ac/3af1b21e-239f-4690-a8fb-21d0c5cfbcb0/Cap_2024-05-17_16-36-04-936.png)
-
 ![로고](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbfQboG%2FbtsHw5Mluk1%2F0HfdpaLmjP8igs0TbvvoBk%2Fimg.png)
-
----
 
 ## 목차
 
