@@ -6,6 +6,11 @@
 #### 금융 상품 비교 어플리케이션
  ![로고](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbfQboG%2FbtsHw5Mluk1%2F0HfdpaLmjP8igs0TbvvoBk%2Fimg.png) -->
 
+| Notion Page | 프로젝트 팀 |
+| --- | --- |
+| 신재건 | 👩🏼‍💼 신재건 <br> 👨🏼‍💻 나경준 <br> 👨🏼‍🎨 정소영 |
+
+
 
 ### 금융 상품 비교 어플리케이션
 
@@ -13,17 +18,17 @@
 
 ---
 
-[아이디어 회의](https://www.notion.so/e2a75d5db39c432e95c096f2bf558460?pvs=21)
+[💡 아이디어 회의](https://www.notion.so/e2a75d5db39c432e95c096f2bf558460?pvs=21) <br>
 
-[기획 (전체적인 구조)](https://www.notion.so/fa33869faa9643719dfca196efa3a2e9?pvs=21)
+[🍎 기획 (전체적인 구조)](https://www.notion.so/fa33869faa9643719dfca196efa3a2e9?pvs=21) <br>
 
-[구체적인 활동](https://www.notion.so/f167ad912d29416581839b5bef1c9717?pvs=21)
+[👩‍💻 구체적인 활동](https://www.notion.so/f167ad912d29416581839b5bef1c9717?pvs=21) <br>
+ 
+[📆 스케줄표 ](https://www.notion.so/fd50942fabb84e7e83a8be362de9f70b?pvs=21) <br>
 
-[스케줄표 ](https://www.notion.so/fd50942fabb84e7e83a8be362de9f70b?pvs=21)
+[👨‍🔧 필수 구현기능 ](https://www.notion.so/622185bd971042ea943d3159368d7ee3?pvs=21) <br>
 
-[필수 구현기능 ](https://www.notion.so/622185bd971042ea943d3159368d7ee3?pvs=21)
-
-[자료조사](https://www.notion.so/577d4a3bbcff4c1c9ccfefb92d5fec13?pvs=21)
+[📝 자료조사](https://www.notion.so/577d4a3bbcff4c1c9ccfefb92d5fec13?pvs=21)
 
 ### 프로젝트 팀
 
