@@ -82,46 +82,6 @@ Git, VS Code Live , Mattermost
 
 ### 추천 알고리즘 2️⃣
 동일하게 1만명의 유저 더미데이터를 생성합니다. 사용자가 선호하는 은행을 고려하여 해당 은행의 상품을 우선적으로 고려합니다. 사용자의 저축 성향을 분석하여 상, 중, 하로 나눕니다. (상 : 24개월 이상 저축, 중: 12개월~24개월 저축, 하: 12개월 이하) 이렇게 나눠진 그룹 그 중에서 가장 금리가 높은 상품을 추천합니다. 추가로 연봉과 자산을 고려하여 예금과 적금을 구별하고, 사용자에게 맞는 상품을 추천하게 설계가 되어있습니다. 이렇게 세심한 고려와 다양한 요소를 고려한 추천 알고리즘은 사용자에게 현명한 금융 결정을 돕는 데 큰 도움이 될 것입니다.
-
----
-
-## 💁 서비스 대표 기능들에 대한 설명
-### 1️⃣ 메인페이지
-![메인페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fl9nt6%2FbtsHy6Yq8Ym%2FbmJ3ewJbs1F2vIMFCXjQq1%2Fimg.jpg)
-<br><br>네비게이션바를 사용해서 반응형으로 제작
-<br>JavaScript 코드를 Vue 코드로 변환하여 애니메이션 기능 추가
-<br>
-### 2️⃣ 로그인, 회원가입 페이지 
-![로그인 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FPBBOW%2FbtsHyT53Ika%2FF8DoPYwrK31ARsZqSYZxz1%2Fimg.png)
-![회원가입 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fz9wQb%2FbtsHzHKDMlA%2FnioZDPveQioATwIrpDn6h0%2Fimg.png)
-<br><br>회원 관리를 할 수 있는 기능(회원 가입, 로그인, 로그아웃 등)을 구성
-<br>Django의 기본 User를 상속받아 커스텀 User를 구현함
-<br>
-### 3️⃣ 프로필 페이지
-![프로필 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlCFPN%2FbtsHyDPYJDx%2FJxvZGltHMoWmV9NDOIWzp1%2Fimg.png)
-![마이펫](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbmPiZc%2FbtsHxJi6fAV%2FDkLWkXQWaoeiD7gt5xiIu1%2Fimg.png)
-<br><br>회원의 기본 정보를 출력할 수 있도록 적절한 화면 구성
-<br> 
-
-### 4️⃣ 금리비교 
-![금리비교](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDFI5H%2FbtsHyDvGm6l%2FNIZailKWbNAOvsuL8NbMXK%2Fimg.png)
-<br>금융상품통합비교공시 API를 활용하여 금융 상품 정보 가져오기
-<br> 상품 목록을 볼 수 있도록 적절한 화면을 구성
-<br> 특정 상품 클릭 시 상세 정보를 볼 수 있도록 구현
-<br>
-### 5️⃣ 환율계산기
-![환율계산기](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkOoyP%2FbtsHzsAaEoT%2FcGMb7ydtzVTGUrJT0AKunk%2Fimg.png)
-<br><br>한국 수출입은행 환율정보 API를 활용하여 현재 환율에 대한 정보 가져오기 
-<br> 원화 입력 시 선택한 국가의 통화로 변환된 값을 출력하도록, 타국 통화 입력 시 해당 통화를 원화로 변환한 값 출력하도록 구성
-<br>
-### 6️⃣ 은행검색
-![은행검색](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEk7Ef%2FbtsHynzPWf3%2Fke9FK7mp8J5HiTeKASYlR0%2Fimg.jpg)
-<br><br>Kakao Maps API를 활용하여 은행의 위치를 검색할 수 있도록 구현
- <br>
-### 7️⃣ 커뮤니티 
-![커뮤니티](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbrj0iv%2FbtsHAeuIAUT%2FVVAtlFGO2Qc11bPY2OxzM1%2Fimg.png)
-<br>회원간 소통할 수 있는 커뮤니티게시판
-<br> 조회, 생성, 삭제, 수정 기능 구현 (CRUD)
 <br>
 ## 예상 질문
 1. 사이킷런 라이브러리 코사인 유사도를 사용하여 추천 알고리즘을 만들었는데, 코사인 유사도 분석의 의미와, 사용된 자료는 연봉, 자산, 나이로 1차원 벡터인데 어떻게 하여 코사인 유사도 분석이 의미가 있을 수 있는지 답변하시오.
@@ -186,6 +146,47 @@ CORS 에러를 회피하는 방법은 여러 가지가 있습니다:
    개발 환경에서만 사용되는 방법으로, 브라우저 확장 프로그램을 통해 CORS 정책을 우회할 수 있습니다. 예를 들어, "CORS Unblock" 같은 확장을 사용하면 됩니다. 하지만 이는 배포 환경에서는 사용할 수 없는 방법입니다.
 
 위의 방법들을 사용하여 CORS 에러를 회피할 수 있습니다. 배포 환경에서는 주로 서버 측에서의 CORS 설정 변경이나 프록시 서버 사용을 통해 해결하는 것이 일반적입니다.
+---
+
+## 💁 서비스 대표 기능들에 대한 설명
+### 1️⃣ 메인페이지
+![메인페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fl9nt6%2FbtsHy6Yq8Ym%2FbmJ3ewJbs1F2vIMFCXjQq1%2Fimg.jpg)
+<br><br>네비게이션바를 사용해서 반응형으로 제작
+<br>JavaScript 코드를 Vue 코드로 변환하여 애니메이션 기능 추가
+<br>
+### 2️⃣ 로그인, 회원가입 페이지 
+![로그인 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FPBBOW%2FbtsHyT53Ika%2FF8DoPYwrK31ARsZqSYZxz1%2Fimg.png)
+![회원가입 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fz9wQb%2FbtsHzHKDMlA%2FnioZDPveQioATwIrpDn6h0%2Fimg.png)
+<br><br>회원 관리를 할 수 있는 기능(회원 가입, 로그인, 로그아웃 등)을 구성
+<br>Django의 기본 User를 상속받아 커스텀 User를 구현함
+<br>
+### 3️⃣ 프로필 페이지
+![프로필 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlCFPN%2FbtsHyDPYJDx%2FJxvZGltHMoWmV9NDOIWzp1%2Fimg.png)
+![마이펫](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbmPiZc%2FbtsHxJi6fAV%2FDkLWkXQWaoeiD7gt5xiIu1%2Fimg.png)
+<br><br>회원의 기본 정보를 출력할 수 있도록 적절한 화면 구성
+<br> 
+
+### 4️⃣ 금리비교 
+![금리비교](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDFI5H%2FbtsHyDvGm6l%2FNIZailKWbNAOvsuL8NbMXK%2Fimg.png)
+<br>금융상품통합비교공시 API를 활용하여 금융 상품 정보 가져오기
+<br> 상품 목록을 볼 수 있도록 적절한 화면을 구성
+<br> 특정 상품 클릭 시 상세 정보를 볼 수 있도록 구현
+<br>
+### 5️⃣ 환율계산기
+![환율계산기](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkOoyP%2FbtsHzsAaEoT%2FcGMb7ydtzVTGUrJT0AKunk%2Fimg.png)
+<br><br>한국 수출입은행 환율정보 API를 활용하여 현재 환율에 대한 정보 가져오기 
+<br> 원화 입력 시 선택한 국가의 통화로 변환된 값을 출력하도록, 타국 통화 입력 시 해당 통화를 원화로 변환한 값 출력하도록 구성
+<br>
+### 6️⃣ 은행검색
+![은행검색](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEk7Ef%2FbtsHynzPWf3%2Fke9FK7mp8J5HiTeKASYlR0%2Fimg.jpg)
+<br><br>Kakao Maps API를 활용하여 은행의 위치를 검색할 수 있도록 구현
+ <br>
+### 7️⃣ 커뮤니티 
+![커뮤니티](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbrj0iv%2FbtsHAeuIAUT%2FVVAtlFGO2Qc11bPY2OxzM1%2Fimg.png)
+<br>회원간 소통할 수 있는 커뮤니티게시판
+<br> 조회, 생성, 삭제, 수정 기능 구현 (CRUD)
+<br>
+<br>
 ## 🙇 느낀점
 
 | 이름  | 내용  |
