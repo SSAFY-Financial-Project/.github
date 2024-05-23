@@ -110,7 +110,7 @@ Git, VS Code Live , Mattermost
 ![커뮤니티](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbFIZb4%2FbtsHxJi4GHK%2F42HiPzHlnoGOtJcfW1OwV0%2Fimg.png)
 
 
-## 🙇 느낀점, 후기 등
+## 🙇 느낀점
 
 | 이름  | 내용  |
 | --- | --- |
