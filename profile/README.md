@@ -57,12 +57,14 @@ Git, VS Code Live , Mattermost
 ### 🎨 Figma 
 [📎 Figma Link  ](https://www.figma.com/design/4uLEnFeFRbHxRX1YmcIreS/%EA%B8%88%EC%9C%B5%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%94%BC%EA%B7%B8%EB%A7%88?node-id=0%3A1&t=GneVOKSpgqVgMRE9-1)
 
-![Figma 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcJHos8%2FbtsHxRVqchl%2F9oelXsL1MMGClfLaCnqrQ0%2Fimg.jpg)
+![Figma](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcJHos8%2FbtsHxRVqchl%2F9oelXsL1MMGClfLaCnqrQ0%2Fimg.jpg)
 
 메인 페이지, 회원 커스터마이징, 예적금 금리 비교 (데이터 저장, 전체 조회, 상세 조회), 환율 계산기, 근처 은행 검색, 커뮤니티, 프로필 페이지, 금융 상품 추천 알고리즘, 마이펫 등 계획했던 기능을 모두 구현하였습니다. 
 
 ## 📑데이터베이스 모델링 (ERD)
 [📎 ERD Drawing Link ](https://www.erdcloud.com/d/exwbK7Fhyy2a3QKqZ)
+
+![ERD 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMb8kI%2FbtsHzruaWUI%2FWoNtm7b2N0a66LLpIhTJA1%2Fimg.png)
 
 ---
 
