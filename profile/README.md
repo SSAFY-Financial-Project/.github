@@ -71,8 +71,8 @@ Git, VS Code Live , Mattermost
 
 ### 🗂️ API 명세서 
 사용한 API : 카카오맵, 한국수출입은행 환율정보, 금융감독원, GPT OPEN AI
-Swagger : https://swagger.io/
-명세서 작성해야 함@!!
+<br>Swagger : https://swagger.io/
+<br>명세서 작성해야 함@!!
 
 ---
 ## 💻금융 상품 추천 알고리즘에 대한 기술적 설명
