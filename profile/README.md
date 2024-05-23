@@ -61,16 +61,17 @@ Git, VS Code Live , Mattermost
 
 메인 페이지, 회원 커스터마이징, 예적금 금리 비교 (데이터 저장, 전체 조회, 상세 조회), 환율 계산기, 근처 은행 검색, 커뮤니티, 프로필 페이지, 금융 상품 추천 알고리즘, 마이펫 등 계획했던 기능을 모두 구현하였습니다. 
 
-## 📑데이터베이스 모델링 (ERD)
+### 📑데이터베이스 모델링 (ERD)
 [📎 ERD Drawing Link ](https://www.erdcloud.com/d/exwbK7Fhyy2a3QKqZ)
 
 ![ERD 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMb8kI%2FbtsHzruaWUI%2FWoNtm7b2N0a66LLpIhTJA1%2Fimg.png)
 
----
 
+### 🗂️ API 명세서
+
+---
 ## 💻금융 상품 추천 알고리즘에 대한 기술적 설명
 
-- API 명세서
 
 ---
 
