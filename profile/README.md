@@ -72,7 +72,7 @@ Git, VS Code Live , Mattermost
 ### 🗂️ API 명세서 
 사용한 API : 카카오맵, 한국수출입은행 환율정보, 금융감독원, GPT OPEN AI
 <br>Swagger : https://swagger.io/
-<br> 관련 사이트 : https://bayleaf07.tistory.com/986
+<br> 관련 자료 : https://bayleaf07.tistory.com/986
 <br>
 ![API 명세서](https://blog.kakaocdn.net/dn/b6ER6m/btsHAuKQuh6/Cb90PoGwZTsGlkKIIa7Hh1/img.png)
 
@@ -108,7 +108,7 @@ Git, VS Code Live , Mattermost
 ![은행검색](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEk7Ef%2FbtsHynzPWf3%2Fke9FK7mp8J5HiTeKASYlR0%2Fimg.jpg)
 
 ### 7️⃣ 커뮤니티 
-![커뮤니티](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbFIZb4%2FbtsHxJi4GHK%2F42HiPzHlnoGOtJcfW1OwV0%2Fimg.png)
+![커뮤니티](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbrj0iv%2FbtsHAeuIAUT%2FVVAtlFGO2Qc11bPY2OxzM1%2Fimg.png)
 
 
 ## 🙇 느낀점
