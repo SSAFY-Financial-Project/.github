@@ -64,7 +64,7 @@ Git, VS Code Live , Mattermost
 ### 📑데이터베이스 모델링 (ERD)
 [📎 ERD Drawing Link ](https://www.erdcloud.com/d/exwbK7Fhyy2a3QKqZ)
 
-![ERD 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMb8kI%2FbtsHzruaWUI%2FWoNtm7b2N0a66LLpIhTJA1%2Fimg.png)
+![ERD 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbNi6s0%2FbtsHxQ936tc%2FN0SenZkY3TY4ekb0KbpNxK%2Fimg.png)
 
 
 ### 🗂️ API 명세서
