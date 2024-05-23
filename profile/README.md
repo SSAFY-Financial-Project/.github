@@ -87,13 +87,27 @@ Git, VS Code Live , Mattermost
 
 ## 💁 서비스 대표 기능들에 대한 설명
 ### 1️⃣ 메인페이지
-### 2️⃣ 로그인, 회원가입 페이지 
-### 3️⃣ 프로필 페이지
-### 4️⃣ 금리비교 
-### 5️⃣ 환율계산기
-### 6️⃣ 은행검색
-### 7️⃣ 커뮤니티 
+![메인페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fl9nt6%2FbtsHy6Yq8Ym%2FbmJ3ewJbs1F2vIMFCXjQq1%2Fimg.jpg)
 
+### 2️⃣ 로그인, 회원가입 페이지 
+![로그인 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FPBBOW%2FbtsHyT53Ika%2FF8DoPYwrK31ARsZqSYZxz1%2Fimg.png)
+![회원가입 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fz9wQb%2FbtsHzHKDMlA%2FnioZDPveQioATwIrpDn6h0%2Fimg.png)
+
+### 3️⃣ 프로필 페이지
+![프로필 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlCFPN%2FbtsHyDPYJDx%2FJxvZGltHMoWmV9NDOIWzp1%2Fimg.png)
+![마이펫](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbmPiZc%2FbtsHxJi6fAV%2FDkLWkXQWaoeiD7gt5xiIu1%2Fimg.png)
+
+### 4️⃣ 금리비교 
+![금리비교](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDFI5H%2FbtsHyDvGm6l%2FNIZailKWbNAOvsuL8NbMXK%2Fimg.png)
+
+### 5️⃣ 환율계산기
+![환율계산기](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkOoyP%2FbtsHzsAaEoT%2FcGMb7ydtzVTGUrJT0AKunk%2Fimg.png)
+
+### 6️⃣ 은행검색
+![은행검색](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEk7Ef%2FbtsHynzPWf3%2Fke9FK7mp8J5HiTeKASYlR0%2Fimg.jpg)
+
+### 7️⃣ 커뮤니티 
+![커뮤니티](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbFIZb4%2FbtsHxJi4GHK%2F42HiPzHlnoGOtJcfW1OwV0%2Fimg.png)
 
 
 ## 🙇 느낀점, 후기 등
