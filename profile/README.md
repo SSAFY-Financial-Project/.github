@@ -10,6 +10,7 @@
 | --- | --- |
 | [💡 아이디어 회의](https://www.notion.so/e2a75d5db39c432e95c096f2bf558460?pvs=21) <br> [🍎 기획 (전체적인 구조)](https://www.notion.so/fa33869faa9643719dfca196efa3a2e9?pvs=21) <br> [👩‍💻 구체적인 활동](https://www.notion.so/f167ad912d29416581839b5bef1c9717?pvs=21) <br> [📆 스케줄표 ](https://www.notion.so/fd50942fabb84e7e83a8be362de9f70b?pvs=21) <br> [👨‍🔧 필수 구현기능 ](https://www.notion.so/622185bd971042ea943d3159368d7ee3?pvs=21) <br> [📝 자료조사](https://www.notion.so/577d4a3bbcff4c1c9ccfefb92d5fec13?pvs=21) | 👨‍💼 신재건 <br> 👨🏼‍💻 나경준 <br> 🙋‍♀️ 정소영 <br> <br> <br> <br> |
 
+<br>
 ## 목차
 
 ### 🙋 I. 팀원 정보 및 업무 분담 내역
@@ -24,6 +25,7 @@
 
 ### 🙇 VI. 느낀 점, 후기 등
 
+<br>
 ---
 
 ## 🙋 I. 팀원 정보 및 업무 분담 내역
