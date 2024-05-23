@@ -88,28 +88,41 @@ Git, VS Code Live , Mattermost
 ## 💁 서비스 대표 기능들에 대한 설명
 ### 1️⃣ 메인페이지
 ![메인페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fl9nt6%2FbtsHy6Yq8Ym%2FbmJ3ewJbs1F2vIMFCXjQq1%2Fimg.jpg)
+네비게이션바를 사용해서 반응형으로 제작
+<br> JavaScript 코드를 Vue 코드로 변환하여 애니메이션 기능 추가
 
 ### 2️⃣ 로그인, 회원가입 페이지 
 ![로그인 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FPBBOW%2FbtsHyT53Ika%2FF8DoPYwrK31ARsZqSYZxz1%2Fimg.png)
 ![회원가입 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fz9wQb%2FbtsHzHKDMlA%2FnioZDPveQioATwIrpDn6h0%2Fimg.png)
+회원 관리를 할 수 있는 기능(회원 가입, 로그인, 로그아웃 등)을 구성
+<br>Django의 기본 User를 상속받아 커스텀 User를 구현함
 
 ### 3️⃣ 프로필 페이지
 ![프로필 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlCFPN%2FbtsHyDPYJDx%2FJxvZGltHMoWmV9NDOIWzp1%2Fimg.png)
 ![마이펫](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbmPiZc%2FbtsHxJi6fAV%2FDkLWkXQWaoeiD7gt5xiIu1%2Fimg.png)
+회원의 기본 정보를 출력할 수 있도록 적절한 화면 구성
+<br> 
 
 ### 4️⃣ 금리비교 
 ![금리비교](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDFI5H%2FbtsHyDvGm6l%2FNIZailKWbNAOvsuL8NbMXK%2Fimg.png)
+금융상품통합비교공시 API를 활용하여 금융 상품 정보 가져오기
+<br> 상품 목록을 볼 수 있도록 적절한 화면을 구성
+<br> 특정 상품 클릭 시 상세 정보를 볼 수 있도록 구현
 
 ### 5️⃣ 환율계산기
 ![환율계산기](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkOoyP%2FbtsHzsAaEoT%2FcGMb7ydtzVTGUrJT0AKunk%2Fimg.png)
+한국 수출입은행 환율정보 API를 활용하여 현재 환율에 대한 정보 가져오기 
+<br> 원화 입력 시 선택한 국가의 통화로 변환된 값을 출력하도록, 타국 통화 입력 시 해당 통화를 원화로 변환한 값 출력하도록 구성
 
 ### 6️⃣ 은행검색
 ![은행검색](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEk7Ef%2FbtsHynzPWf3%2Fke9FK7mp8J5HiTeKASYlR0%2Fimg.jpg)
-
+Kakao Maps API를 활용하여 은행의 위치를 검색할 수 있도록 구현
+ 
 ### 7️⃣ 커뮤니티 
 ![커뮤니티](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbrj0iv%2FbtsHAeuIAUT%2FVVAtlFGO2Qc11bPY2OxzM1%2Fimg.png)
-
-
+회원간 소통할 수 있는 커뮤니티게시판
+<br> 조회, 생성, 삭제, 수정 기능 구현 (CRUD)
+<br>
 ## 🙇 느낀점
 
 | 이름  | 내용  |
