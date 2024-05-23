@@ -69,10 +69,9 @@ Git, VS Code Live , Mattermost
 ![ERD 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FK1DDh%2FbtsHx9aBazq%2FkeGuWg5ACF50dpzPrQgDbk%2Fimg.png)
 
 
-### 🗂️ API 명세서
-
-사용한 API : 카카오맵, 한국수출입은행 환율정보, 금융감독원, GPT OPEN AI 
-
+### 🗂️ API 명세서 
+사용한 API : 카카오맵, 한국수출입은행 환율정보, 금융감독원, GPT OPEN AI
+Swagger : https://swagger.io/
 명세서 작성해야 함@!!
 
 ---
